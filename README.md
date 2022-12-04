@@ -19,9 +19,6 @@ Hi there 👋, I'm a full stack developer.
 ![](https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
 -->
 
-<picture>
-<source srcset="https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true" />
-</picture>
+**下面两张图如果显示不出来请刷新**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
+![](https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
