@@ -1,0 +1,11 @@
+name: Refresh
+
+on:
+  schedule:
+    - cron: '0 0 0/2 * * ? *'
+    
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      run: curl https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true
