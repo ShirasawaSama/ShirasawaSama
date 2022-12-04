@@ -20,7 +20,7 @@ Hi there 👋, I'm a full stack developer.
 -->
 
 <picture>
-<source srcset="https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true"/>
+<source srcset="https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true" />
 </picture>
 
