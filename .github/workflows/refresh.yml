@@ -8,4 +8,7 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - run: curl "https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true&custom_title=Shirasawa的统计数据(含orgs)"
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: node -e "fetch('https://github.com/ShirasawaSama').then(a=>a.text()).then(a=>[...a.matchAll(/src=\"https:\/\/camo.githubusercontent.com\/(.+?)\"/g)].forEach(b=>fetch('https://camo.githubusercontent.com/'+b[1]).then(c=>c.text())))"
