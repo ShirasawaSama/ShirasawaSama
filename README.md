@@ -4,8 +4,8 @@ Hi there 👋, I'm a full stack developer.
 
 ## Languages
 
-- **JavaScript / TypeScript**: React, NodeJS, Koa, Babel, Material-UI, Less, Parcel, Vite
-- **Java / Kotlin**: Netty, VertX, Compose, Javassist
+- **JavaScript / TypeScript**: React, NodeJS, Koa, Babel, Material-UI, Less, Parcel, Vite, Vue, ElementUI
+- **Java / Kotlin**: Netty, VertX, Compose, Javassist, SpringBoot
 - C / C++
 - Golang
 - PHP
