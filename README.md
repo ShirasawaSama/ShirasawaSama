@@ -19,6 +19,6 @@ Hi there 👋, I'm a full stack developer.
 ![](https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
 -->
 
-**下面三张图如果显示不出来请刷新**
+**下面三张图如果显示不出来请刷新, 主要贡献均在组织账号中, 因此部分 stars 不在个人信息的统计中**
 
-![](https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&custom_title=Shirasawa的统计数据(不含orgs)) ![](https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true&custom_title=Shirasawa的统计数据(含orgs)) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
+ ![](https://github-readme-stats-delta-nine-62.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&include_orgs=true&custom_title=Shirasawa的统计数据(含orgs)) ![](https://github-readme-stats.vercel.app/api?username=ShirasawaSama&count_private=true&show_icons=true&locale=cn&include_all_commits=true&custom_title=Shirasawa的统计数据(不含orgs)) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirasawaSama&hide=css,html&layout=compact&langs_count=8)
