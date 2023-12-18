@@ -2,8 +2,6 @@
 
 Hi there 👋, I'm a full stack developer.
 
-AFDian: https://afdian.net/a/Shirasawa
-
 ## Languages
 
 - **JavaScript / TypeScript**: React, NodeJS, Koa, Babel, Material-UI, Less, Parcel, Vite, Vue, ElementUI
@@ -13,7 +11,7 @@ AFDian: https://afdian.net/a/Shirasawa
 - PHP
 - Python
 
-## 主要提交组织
+## 主要提交组织 - Contributing Organizations
 
 [@neko-craft](https://github.com/neko-craft) [@Apisium](https://github.com/Apisium) [@EchoInMirror](https://github.com/EchoInMirror) [@OpenSUST](https://github.com/OpenSUST)
 
