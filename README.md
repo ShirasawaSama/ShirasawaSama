@@ -2,6 +2,8 @@
 
 Hi there 👋, I'm a full stack developer.
 
+AFdian: https://afdian.net/a/Shirasawa
+
 ## Languages
 
 - **JavaScript / TypeScript**: React, NodeJS, Koa, Babel, Material-UI, Less, Parcel, Vite, Vue, ElementUI
